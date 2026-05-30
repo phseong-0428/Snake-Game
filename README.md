@@ -4,6 +4,7 @@
 
 * This project is built on **.NET 10**, as used in our class.
 * If .NET 10 is not installed, please install it first.
+* Verify with: dotnet --version
 * No external libraries or additional packages are used.
 
 Navigate to the root directory (Snake-Game) of this project and execute the following command:

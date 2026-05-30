@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("Snake-Game")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adfb73c5759bb71c53cd93784151f231d2d2337c")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34e9b904bdf610a25cdcf965939ebc8339dc4b49")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("Snake-Game")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("Snake-Game")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
