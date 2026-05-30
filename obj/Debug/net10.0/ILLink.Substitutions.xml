@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="Snake-Game">
+    <resource name="FSharpSignatureData.Snake-Game" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.Snake-Game" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.Snake-Game" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.Snake-Game" action="remove"></resource>
+    <resource name="FSharpOptimizationData.Snake-Game" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.Snake-Game" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.Snake-Game" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.Snake-Game" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.Snake-Game" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.Snake-Game" action="remove"></resource>
+  </assembly>
+</linker>
